@@ -1,11 +1,12 @@
 # Welcome
-- 👋 Hi, I’m MERESH (obviously, the shortcut for my full real name)
-- 👀 I’m interested in computers, programming and information technology.
+- 👋 Hi, My name is Marawan Essam (you can call me MERESH, that's a shortcut for my real full name)
+- 👀 I’m interested in computers, programming and information technology. I'd want to be a programmer one day.
 - 🌱 I’m currently learning HTML and Python. I may learn some other concepts and programming languages later.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: he, his, him (obviously, male pronouns)
-- ⚡ Fun fact: I'm a fan of Beyblade and Sonic the Hedgehog, and you're probably gonna notice how many times I use parentheses "()" for humour 😁 
+- 😄 Pronouns: he, his, him (obviously, male pronouns).
+- ⚡ Fun fact: I'm a fan of Beyblade and Sonic the Hedgehog, and you're probably gonna notice how many times I use parentheses "()" for humour 😁. Also I don't know who is gonna contribute to this repo other than me 🤷‍♂️.
+
 
 <!---
 MERESH56/MERESH56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
