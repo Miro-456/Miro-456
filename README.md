@@ -6,7 +6,7 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: he, his, him (and so on...).
 - ⚡ Fun fact: I'm a fan of Beyblade and Sonic the Hedgehog, and you're probably gonna notice how many times I use parentheses "()" for humour 😁. Also I don't know who is gonna contribute to this special repo other than me 🤷‍♂️.
-My Portfoilo:
+-My Portfoilo:
 https://drive.google.com/drive/folders/1-Qiqmvkhkrz8VaEaaty0urfiqw7tpvT_
 
 
