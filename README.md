@@ -8,6 +8,7 @@
 - ⚡ Fun fact: I'm a fan of Beyblade and Sonic the Hedgehog, and you're probably gonna notice how many times I use parentheses "()" and emojis for humour 😁. Also I don't know who is gonna contribute to this special repo other than me 🤷‍♂️. And also, this is a thunder.
 - 🗂 Check out [My Portfoilo](https://drive.google.com/drive/folders/1-Qiqmvkhkrz8VaEaaty0urfiqw7tpvT_)
  (The link was not working cuz the readme file wasn't counting the underscore in the link for unknown reasons, so I had to make it a hyperlink (well, I used parentheses for this hyperlink, too 😅))
+- This README file may get an update sooner or later 😉
 
 <!---
 MERESH56/MERESH56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
