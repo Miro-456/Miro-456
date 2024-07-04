@@ -1,5 +1,5 @@
 # Welcome
-- 👋 Hi, My name is Marawan Essam (you can call me MERESH, that's a shortcut for my real full name).
+- 👋 Hi, My name is Marawan Essam (you can call me Miro, that's a shortcut for my real full name).
 - 👀 I’m interested in computers, programming and information technology. I'd want to be a programmer one day.
 - 🌱 I’m currently learning HTML and Python. I may learn some other concepts and programming languages later.
 - 💞️ I’m looking to collaborate on ...
